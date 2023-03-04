@@ -1,5 +1,4 @@
 ---
-title: "Splash Page"
 layout: single
 permalink: /apps/
 classes: wide
