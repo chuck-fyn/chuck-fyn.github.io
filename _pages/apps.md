@@ -8,7 +8,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Centre Court"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "/_posts/2010-01-07-post-modified.md"
+    url: "_posts/2010-01-07-post-modified.md"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/bio-photo.jpg
