@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /apps/
+permalink: /
 classes: wide
 author_profile: true
 feature_row:
