@@ -63,7 +63,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/chuck-fyn"
     - label: "cprutting@gmail.com"
-      icon: "svg-icon email"
+      # icon: "svg-icon email"
       url: "mailto:cprutting@gmail.com"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
