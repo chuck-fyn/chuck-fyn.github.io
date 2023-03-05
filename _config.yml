@@ -16,7 +16,7 @@
 title: Charles Prutting
 email: cprutting@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  iOS Developer with 3+ years experience
+  iOS Engineer creating unique and immersive app experiences!
 github_username: chuck-fyn
 minimal_mistakes_skin: default
 search: false
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Charles Prutting"
   avatar : "/assets/images/chuckphoto3.jpg"
-  bio    : "iOS Engineer of unique and immersive app experiences!"
+  bio    : "iOS Engineer creating unique and immersive app experiences!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
