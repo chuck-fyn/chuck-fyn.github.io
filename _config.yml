@@ -57,20 +57,14 @@ plugins:
 author:
   name   : "Charles Prutting"
   avatar : "/assets/images/chuckphoto3.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "iOS Developer with 3+ years experience"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/chuck-fyn"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 footer:
   links:
