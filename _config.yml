@@ -60,7 +60,7 @@ author:
   bio    : "iOS Engineer creating unique and immersive app experiences!"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-email"
       url: "https://github.com/chuck-fyn"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
