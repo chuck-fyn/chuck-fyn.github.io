@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Charles Prutting"
-  avatar : "/assets/images/chuckphoto2.jpg"
+  avatar : "/assets/images/chuckphoto2.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
